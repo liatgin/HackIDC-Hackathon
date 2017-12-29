@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartCart</string>
+
+    <string name="payment_progress">Payment in progress...</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_product_navigation">ProductNavigationActivity</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+</resources>
